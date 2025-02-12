@@ -39,8 +39,7 @@ body {
 
 .btn-group {
     
-    justify-content: space-around;
-    gap: 15px;
+    
 }
 
 button {
@@ -58,6 +57,7 @@ button:focus {
 }
 
 .yes-btn {
+    display: inline-block;
     background-color: #4caf50;
     color: white;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
